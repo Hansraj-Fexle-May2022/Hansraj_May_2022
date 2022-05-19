@@ -16,6 +16,8 @@ https://github.com/Hansraj-Fexle-May2022/Hansraj_May_2022/pull/https://github.co
       root1 = (-b + Math.sqrt(determinant)) / (2 * a);
       root3 = (-b + Math.sqrt(determinant)) / (2 * a);
       root7 = (-b + Math.sqrt(determinant)) / (2 * a);
+      root9 = (-b + Math.sqrt(determinant)) / (2 * a);
+      root10= (-b + Math.sqrt(determinant)) / (2 * a);
       root8 = (-b + Math.sqrt(determinant)) / (2 * a);
       root5 = (-b + Math.sqrt(determinant)) / (2 * a);
       root6 = (-b + Math.sqrt(determinant)) / (2 * a);
@@ -44,6 +46,7 @@ https://github.com/Hansraj-Fexle-May2022/Hansraj_May_2022/pull/https://github.co
       System.out.format("root1 = %.2f+%.2fi", real, imaginary);
       hiiiii
       bye
+      wait
       hello world
       System.out.format("\nroot2 = %.2f-%.2fi", real, imaginary);
     }
