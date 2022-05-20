@@ -25,23 +25,6 @@ https://github.com/Hansraj-Fexle-May2022/Hansraj_May_2022/pull/https://github.co
       root6 = (-b + Math.sqrt(determinant)) / (2 * a);
       root4= (-b + Math.sqrt(determinant)) / (2 * a);
       root2 = (-b - Math.sqrt(determinant)) / (2 * a);
-
-      System.out.format("root1 = %.2f and root2 = %.2f", root1, root2);
-    }
-
-    // check if determinant is equal to 0
-    else if (determinant == 0) {
-
-      // two real and equal roots
-      // determinant is equal to 0
-      // so -b + 0 == -b
-      root1 = root2 = -b / (2 * a);
-      System.out.format("root1 = root2 = %.2f;", root1);
-    }
-
-    // if determinant is less than zero
-    else {
-
       // roots are complex number and distinct
       double real = -b / (2 * a);
       double imaginary = Math.sqrt(-determinant) / (2 * a);
