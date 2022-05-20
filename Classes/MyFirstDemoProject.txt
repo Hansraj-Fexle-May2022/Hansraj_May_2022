@@ -17,7 +17,7 @@ public class Main {
       root1 = (-b + Math.sqrt(determinant)) / (2 * a);
       root3 = (-b + Math.sqrt(determinant)) / (2 * a);
       root4= (-b + Math.sqrt(determinant)) / (2 * a);
-      root2 = (-b - Math.sqrt(determinant)) / (2 * a);
+      root5 = (-b - Math.sqrt(determinant)) / (2 * a);
 
       System.out.format("root1 = %.2f and root2 = %.2f", root1, root2);
     }
