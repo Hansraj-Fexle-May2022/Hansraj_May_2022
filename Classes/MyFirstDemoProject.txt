@@ -16,8 +16,11 @@ public class Main {
       // two real and distinct roots
       root1 = (-b + Math.sqrt(determinant)) / (2 * a);
       root3 = (-b + Math.sqrt(determinant)) / (2 * a);
+      root9 = (-b + Math.sqrt(determinant)) / (2 * a);
       root6= (-b + Math.sqrt(determinant)) / (2 * a);
       root7= (-b + Math.sqrt(determinant)) / (2 * a);
+      root7 = (-b + Math.sqrt(determinant)) / (2 * a);
+      root8 = (-b + Math.sqrt(determinant)) / (2 * a);
       root4= (-b + Math.sqrt(determinant)) / (2 * a);
       root2 = (-b - Math.sqrt(determinant)) / (2 * a);
 
